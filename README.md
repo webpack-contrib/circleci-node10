@@ -16,7 +16,7 @@
 ```bash
 # config.yml
     docker:
-      - image: webpackcontrib/circleci-node9
+      - image: webpackcontrib/circleci-node10
 ```
 
 <h2 align="center">Container Includes</h2>
@@ -27,5 +27,5 @@
 
 > This container does not have a headless browser configuration
 
-[tests]: https://circleci.com/gh/webpack-contrib/circleci-node9.svg?style=svg
-[tests-url]: https://circleci.com/gh/webpack-contrib/circleci-node9
+[tests]: https://circleci.com/gh/webpack-contrib/circleci-node10.svg?style=svg
+[tests-url]: https://circleci.com/gh/webpack-contrib/circleci-node10
